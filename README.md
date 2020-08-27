@@ -1,3 +1,5 @@
 # HonorsTopicsNames
+Liam Weetman
 Mr. Stout
-Skylar
+Skylar Liu
+Evelyn Choi 
